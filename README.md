@@ -11,17 +11,17 @@ If an axis can be found along witch the projection of two convex shapes do not o
 
 ## Run tests
 
-./test
+*./test*
 
 ## Run test app
 
-./app
+*./app*
 
-You can specify shapes vertices in the `/assets/shapes.txt` file in the following format:
+You can specify shapes vertices in the */assets/shapes.txt* file in the following format:
 
-X0 Y0  
-X1 Y1  
-...  
-Xn Yn
+*X0 Y0*  
+*X1 Y1*  
+*...*  
+*Xn Yn*
 
 Each shape should consist of *n* vertices where *n > 1*. Shapes are divided by empty line.
