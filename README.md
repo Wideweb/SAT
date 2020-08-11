@@ -5,9 +5,9 @@ If an axis can be found along witch the projection of two convex shapes do not o
 ## Build
 
 1. mkdir build
-2. cd build
-3. cmake ..
-4. cmake --build .
+1. cd build
+1. cmake ..
+1. cmake --build .
 
 ## Run tests
 
@@ -24,4 +24,4 @@ X1 Y1
 ...  
 Xn Yn
 
-Each shape should consist of n vertices where n > 1. Shapes are divided by empty line.
+Each shape should consist of *n* vertices where *n > 1*. Shapes are divided by empty line.
