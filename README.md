@@ -21,8 +21,11 @@ You can specify shapes vertices in the `/assets/shapes.txt` file in the followin
 
 `
 X0 Y0
+
 X1 Y1
+
 ...
+
 Xn Yn
 `
 
